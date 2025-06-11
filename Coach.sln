@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coach.API", "Coach.API\Coach.API.csproj", "{870FBB17-4AE1-1AB9-F09C-00B3D8171FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coach.API.Tests", "Coach.API.Tests\Coach.API.Tests.csproj", "{80A29BF2-BF7B-F549-ED17-BF490044C68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870FBB17-4AE1-1AB9-F09C-00B3D8171FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870FBB17-4AE1-1AB9-F09C-00B3D8171FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870FBB17-4AE1-1AB9-F09C-00B3D8171FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870FBB17-4AE1-1AB9-F09C-00B3D8171FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A29BF2-BF7B-F549-ED17-BF490044C68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A29BF2-BF7B-F549-ED17-BF490044C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A29BF2-BF7B-F549-ED17-BF490044C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A29BF2-BF7B-F549-ED17-BF490044C68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAADEFB-A319-41C5-BEAB-F2858830E11B}
+	EndGlobalSection
+EndGlobal
